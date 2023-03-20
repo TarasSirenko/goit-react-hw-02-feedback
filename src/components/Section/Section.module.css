@@ -1,0 +1,10 @@
+.Section {
+  width: 600px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.SectionTitle {
+  font-size: 30px;
+}

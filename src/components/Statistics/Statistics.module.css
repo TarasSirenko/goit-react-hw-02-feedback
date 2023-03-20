@@ -1,0 +1,13 @@
+.StatisticsList {
+  list-style: none;
+  font-size: 20px;
+  text-align: left;
+}
+
+.StatisticsItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.StatisticsItem:last-child {
+  font-weight: bold;
+}
